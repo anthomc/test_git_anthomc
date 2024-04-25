@@ -1,0 +1,171 @@
+commit b6d1ceff4cab578b2ebc27e4b84372124aa6aff8
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:19:31 2024 -0500
+
+    t2
+
+commit 93748875656250723ddf6046c2b96352deabc7a5
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:12:14 2024 -0500
+
+    test25
+
+commit 33467c2ca886030c84bd7139ad1d9ab1c2beaee7
+Merge: 0975cee 09684c8
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:10:09 2024 -0500
+
+    test5
+
+commit 0975ceede5be465d9d76e365f22a3874d0dbc866
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:07:37 2024 -0500
+
+    test9
+
+commit 09684c88cc98f55cd574446ed8f61487236eb6b9
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:07:37 2024 -0500
+
+    test9
+
+commit 512950eaf69162c27107ae4b5109c0cc3aadab55
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:04:46 2024 -0500
+
+    test5
+
+commit dbe845233cfdc872fa7d60167cec474e2f099158
+Merge: d1a55f2 0f6ca26
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 09:03:41 2024 -0500
+
+    test4
+
+commit d1a55f249bd925796271f3047b6999c5e3c5ddfa
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:59:46 2024 -0500
+
+    test3
+
+commit 0f6ca26e3610b3d01f8066d120a2582e2aeecc99
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:59:46 2024 -0500
+
+    test3
+
+commit 7cca0c54cdd6b60ecc16e427d4aae3e6ab58bb87
+Merge: 3a80d05 9d964f7
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:58:31 2024 -0500
+
+    Merge branch 'main' of https://github.com/LanthDeveloper/test_git into main
+
+commit 3a80d05ad370c715a6d0ea23bb577d508b98f150
+Merge: e871128 c63a053
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:56:07 2024 -0500
+
+    Merge branch 'main' of https://github.com/LanthDeveloper/test_git into main
+
+commit 9d964f7d084a8648d86177422e7284bf81a76ae8
+Merge: e871128 c63a053
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:56:07 2024 -0500
+
+    Merge branch 'main' of https://github.com/LanthDeveloper/test_git into main
+
+commit e8711288468303757c677a9b7857d37524b56769
+Merge: c644f61 3bdeafb
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:51:38 2024 -0500
+
+    test2
+
+commit c63a0530ef0af42d5da406ca61845cc6e22a876a
+Merge: c644f61 3bdeafb
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:51:38 2024 -0500
+
+    test2
+
+commit c644f61c95f9b5a914e3ef98e84d4471dd038714
+Merge: 4744200 42a7790
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:37:45 2024 -0500
+
+    test
+
+commit 3bdeafba8b8626b6c129550ad380dc55536f9a3b
+Merge: 4744200 42a7790
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:37:45 2024 -0500
+
+    test
+
+commit 42a7790a990f65ee251c249e4d83a45816b35625
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:34:25 2024 -0500
+
+    test
+
+commit 47442002f21b7611dec55bf32dcfa04144cec070
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Thu Apr 25 08:30:52 2024 -0500
+
+    test
+
+commit ba9549e12ed80834df106192b52ad9e2c84d3181
+Merge: 2161385 c773fa2
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Wed Apr 24 18:55:58 2024 -0500
+
+    t
+
+commit c773fa2d58989da9ada9a05ce99d47d8dae007cc
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Wed Apr 24 18:52:17 2024 -0500
+
+    t
+
+commit 216138502c720e9aa16319438c6053df659dd6f5
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Wed Apr 24 18:49:57 2024 -0500
+
+    test
+
+commit e08fe500af3167d90193bc30d929a41dbcac734d
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Wed Apr 24 18:41:17 2024 -0500
+
+    creando index.html en la rama2
+
+commit 4d9c63cc1f263f086ed82fa22e1448a0383e5f39
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Wed Apr 24 18:23:55 2024 -0500
+
+    ignorando archivos .css
+
+commit f8a6c1510dd9159e21cfe96f41706e132db1caf7
+Author: Lee Anthony Yauri <157542827+LanthDeveloper@users.noreply.github.com>
+Date:   Tue Apr 2 21:35:39 2024 -0500
+
+    Create LICENSE
+
+commit 40629145d02b914559dd6ff749dff290dc24941b
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Tue Apr 2 21:30:23 2024 -0500
+
+    Agregando mas contenido al README.md
+
+commit 20d7114605bc7449f766a6914f1f02d5ed2ca782
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Tue Apr 2 21:20:49 2024 -0500
+
+    Se agrego contenido al README.md
+
+commit e5a927a0b958cf5888eac13a343c366dfa18cf33
+Author: “LanthDeveloper” <lanthdev@gmail.com>
+Date:   Tue Apr 2 21:18:06 2024 -0500
+
+    PRIMER COMMIT :)
